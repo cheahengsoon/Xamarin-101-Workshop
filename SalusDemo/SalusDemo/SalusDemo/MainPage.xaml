@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SalusDemo"
+             x:Class="SalusDemo.MainPage">
+
+    <ContentPage.Content>
+        <!--Grid Layout-->
+        <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <!--Controls-->
+            <Label x:Name="lbllocation" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"  BackgroundColor="Blue" TextColor="White" FontSize="35"/>
+            <Button x:Name="btnmessage" Grid.Row="1" Grid.Column="0" Image="sms.png"  Clicked="SendSMS"  />
+            <Button x:Name="btnalarm" Grid.Row="1" Grid.Column="1" Image="alarm.png" Clicked="OnAlertYesNoClicked"/>
+            <Button x:Name="btnPolice" Grid.Row="2" Grid.Column="0" Image="police.png" Clicked="CallPolice"  />
+            <Button x:Name="btnAmbulance" Grid.Row="2" Grid.Column="1" Image="hospital.png" Clicked="CallHospital" />
+
+            <Entry x:Name="txtPhoneNumber" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" 
+           Placeholder="Phone Number" TextChanged="PhoneNo_TextChanged" Keyboard="Numeric" TextColor="Red" FontAttributes="Bold" FontSize="40" />
+            <!--aka Textbox-->
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>

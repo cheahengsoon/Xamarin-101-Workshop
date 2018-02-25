@@ -1,0 +1,75 @@
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\SalusDemo.Android.dll
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\SalusDemo.Android.pdb
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\com.companyname.SalusDemo.apk
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\com.companyname.SalusDemo-Signed.apk
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\SalusDemo.dll
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\SalusDemo.pdb
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\SalusDemo.Android.csprojResolveAssemblyReference.cache
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\SalusDemo.Android.csproj.CoreCompileInputs.cache
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\SalusDemo.Android.dll
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\SalusDemo.Android.pdb
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\android\bin\com.companyname.SalusDemo.apk
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable\icon.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\values\styles.xml
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable\alarm.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable\hospital.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable\police.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\res\drawable\sms.png
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\R.cs.flag
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\obj\Debug\uploadflags.txt
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo.Android\bin\Debug\SalusDemo.Android.dll
+C:\Users\ENG SOON CHEAH\.nuget\packages\xamarin.forms\2.5.0.122203\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\ENG SOON CHEAH\.nuget\packages\xamarin.forms\2.5.0.122203\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\ENG SOON CHEAH\.nuget\packages\xamarin.forms\2.5.0.122203\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\ENG SOON CHEAH\.nuget\packages\xamarin.forms\2.5.0.122203\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Web.Services.pdb
+obj\Debug\linksrc\SalusDemo.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\SalusDemo.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

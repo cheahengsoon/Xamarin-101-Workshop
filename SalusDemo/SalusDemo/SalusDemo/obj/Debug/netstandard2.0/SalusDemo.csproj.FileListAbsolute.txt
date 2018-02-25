@@ -1,0 +1,11 @@
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\bin\Debug\netstandard2.0\SalusDemo.deps.json
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\bin\Debug\netstandard2.0\SalusDemo.dll
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\bin\Debug\netstandard2.0\SalusDemo.pdb
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.csprojResolveAssemblyReference.cache
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.csproj.CoreCompileInputs.cache
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.App.xaml.g.cs
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.MainPage.xaml.g.cs
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.AssemblyInfoInputs.cache
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.AssemblyInfo.cs
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.dll
+C:\Users\ENG SOON CHEAH\source\repos\SalusDemo\SalusDemo\SalusDemo\obj\Debug\netstandard2.0\SalusDemo.pdb
